@@ -33,13 +33,7 @@
       "name": "Time",
       "version": ">=1.6.1",
       "platforms": ["*"]
-    },   
-    {
-      "owner": "khoih-prog",
-      "name": "WiFiNINA_Generic",
-      "version": ">=1.8.14-6",
-      "platforms": ["*"]
-    } 
+    }     
   ],
   "license": "LGPL-3.0",
   "frameworks": "*",
